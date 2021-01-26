@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/qmoney-website/static/css/main.54a58fed.chunk.css",
+    "main.js": "/qmoney-website/static/js/main.e559e54d.chunk.js",
+    "main.js.map": "/qmoney-website/static/js/main.e559e54d.chunk.js.map",
+    "runtime-main.js": "/qmoney-website/static/js/runtime-main.ef751538.js",
+    "runtime-main.js.map": "/qmoney-website/static/js/runtime-main.ef751538.js.map",
+    "static/css/2.ff91c6f5.chunk.css": "/qmoney-website/static/css/2.ff91c6f5.chunk.css",
+    "static/js/2.6656cf8b.chunk.js": "/qmoney-website/static/js/2.6656cf8b.chunk.js",
+    "static/js/2.6656cf8b.chunk.js.map": "/qmoney-website/static/js/2.6656cf8b.chunk.js.map",
+    "index.html": "/qmoney-website/index.html",
+    "static/css/2.ff91c6f5.chunk.css.map": "/qmoney-website/static/css/2.ff91c6f5.chunk.css.map",
+    "static/css/main.54a58fed.chunk.css.map": "/qmoney-website/static/css/main.54a58fed.chunk.css.map",
+    "static/js/2.6656cf8b.chunk.js.LICENSE.txt": "/qmoney-website/static/js/2.6656cf8b.chunk.js.LICENSE.txt",
+    "static/media/avatar.bd189317.jpg": "/qmoney-website/static/media/avatar.bd189317.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef751538.js",
+    "static/css/2.ff91c6f5.chunk.css",
+    "static/js/2.6656cf8b.chunk.js",
+    "static/css/main.54a58fed.chunk.css",
+    "static/js/main.e559e54d.chunk.js"
+  ]
+}
